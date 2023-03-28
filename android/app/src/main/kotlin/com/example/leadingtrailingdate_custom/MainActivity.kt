@@ -1,4 +1,4 @@
-package com.example.flutter_leadtraildate_custom
+package com.example.leadingtrailingdate_custom
 
 import io.flutter.embedding.android.FlutterActivity
 
